@@ -11,4 +11,4 @@ or mixolydian scale.
 - Sequencing
 - External data processing
 
-![](assets/py-sendmidi.mp3){type: audio/mp3}.
+<audio src="assets/py-sendmidi.mp3" controls preload></audio>
