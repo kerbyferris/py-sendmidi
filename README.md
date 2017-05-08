@@ -11,4 +11,4 @@ or mixolydian scale.
 - Sequencing
 - External data processing
 
-![Sounds Like](http://kerbyferris.com/assets/py-sendmidi.mp3)
+[Sounds Like](http://kerbyferris.com/assets/py-sendmidi.mp3)
