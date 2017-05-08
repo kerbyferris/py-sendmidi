@@ -4,4 +4,4 @@ test:
 
 .PHONY: test-watch
 test-watch:
-	ptw --onpass 'py.test --cov=midi --cov-report term-missing --cov-report html tests/'
+	ptw -v --onpass 'py.test --cov=midi --cov-report term-missing --cov-report html tests/'
