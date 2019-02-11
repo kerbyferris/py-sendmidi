@@ -10,5 +10,3 @@ or mixolydian scale.
 - Click CLI
 - Sequencing
 - External data processing
-
- [Sounds Like -->](http://kerbyferris.com/assets/py-sendmidi.mp3)
